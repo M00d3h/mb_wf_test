@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# local config and secrets
+.env
+.env.local
+settings.local.json
+
+# noise
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo

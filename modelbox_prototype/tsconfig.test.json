@@ -1,0 +1,15 @@
+{
+  "extends": "@electron-toolkit/tsconfig/tsconfig.node.json",
+  "include": ["src/**/*", "vitest.config.ts"],
+  "compilerOptions": {
+    "composite": false,
+    "moduleResolution": "bundler",
+    "baseUrl": ".",
+    "paths": {
+      "@shared/*": ["src/shared/*"],
+      "@main/*": ["src/main/*"],
+      "@renderer/*": ["src/renderer/src/*"]
+    },
+    "types": ["vitest/globals", "node"]
+  }
+}

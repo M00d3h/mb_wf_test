@@ -1,0 +1,15 @@
+ ▐▛███▜▌   Claude Code v2.1.120
+▝▜█████▛▘  Sonnet 4.6 · Claude Pro
+  ▘▘ ▝▝    ~\.vscode\llamafront
+
+✻ Conversation compacted (ctrl+o for history)
+
+  ⎿  Referenced file src\renderer\src\pages\ModelsPage.tsx
+  ⎿  Referenced file src\renderer\src\components\layout\HfSidebarDownload.tsx
+  ⎿  Referenced file src\renderer\src\pages\HuggingFacePage.tsx
+  ⎿  Read src\renderer\src\store\hfDownloadStore.ts (340 lines)
+  ⎿  Read src\main\ipc\huggingface.ipc.ts (404 lines)
+  ⎿  You've hit your limit · resets 2:20am (Australia/Sydney)
+     /upgrade to increase your usage limit.
+
+✻ Crunched for 5m 16s
